@@ -1,42 +1,33 @@
-# ¡Hola! Soy Emir Sat 👋
+# Emir Sat
 
-¡Bienvenido a mi perfil de GitHub! Soy **Desarrollador de Software y Game Developer**, cursando actualmente el **último semestre (4.º semestre)** de la carrera de programación en la **UTN (Universidad Tecnológica Nacional)**. Me apasiona construir software eficiente, desarrollar experiencias interactivas y explorar nuevas tecnologías.
-
----
-
-### 🚀 Sobre mí
-
-- 🎓 **Estudiante de Programación** en la **UTN** (4.º y último semestre).
-- 💻 Enfocado en **Software Engineering** y **Desarrollo de Videojuegos**.
-- 🔭 Actualmente trabajando en mis proyectos de final de carrera y prototipos de juegos.
-- 🌱 Siempre aprendiendo y mejorando mis habilidades en diseño de sistemas y mecánicas de juego.
-- 👯 Abierto a colaborar en proyectos de desarrollo web, software general o videojuegos.
-- 💬 Pregúntame sobre **Python, Java, Vue.js o desarrollo con Godot**.
+**Desarrollador de Software | Game Developer**  
+Estudiante avanzado de la **Universidad Tecnológica Nacional (UTN)** — Próximo a graduarme (4.º semestre).
 
 ---
 
-### 🛠 Stack Tecnológico
+## 📋 Perfil Profesional
 
-**Lenguajes de Programación:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openid&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Desarrollador enfocado en el diseño y construcción de soluciones de software escalables, aplicaciones web e implementaciones interactivas en motores de videojuegos. Con sólida formación académica en algoritmos, estructuras de datos y desarrollo orientado a objetos, busco aplicar mejores prácticas de ingeniería en proyectos desafiantes.
 
-**Desarrollo Web:**
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Bases de Datos:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Motor de Videojuegos:**
-![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+- 🎓 **Educación:** Tecnicatura Universitaria en Programación — Universidad Tecnológica Nacional (UTN).
+- 🎯 **Enfoque actual:** Finalización de proyectos académicos integradores y desarrollo de prototipos en Godot Engine.
+- 💡 **Áreas de interés:** Ingeniería de Software, Desarrollo Web Full Stack, Arquitectura de Videojuegos y Bases de Datos.
 
 ---
 
-### 📬 Conéctate conmigo
+## 🛠 Competencias Técnicas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emir-sat/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emirsat54@gmail.com)
+| Categoría | Tecnologías y Herramientas |
+| :--- | :--- |
+| **Lenguajes** | Python, Java, JavaScript, GDScript, HTML5, CSS3 |
+| **Frameworks & Web** | Vue.js |
+| **Bases de Datos** | PostgreSQL, MySQL |
+| **Motor de Videojuegos** | Godot Engine |
+| **Control de Versiones** | Git, GitHub |
+
+---
+
+## 📬 Contacto & Redes
+
+- **LinkedIn:** [linkedin.com/in/emir-sat](https://www.linkedin.com/in/emir-sat/)
+- **Email:** [emirsat54@gmail.com](mailto:emirsat54@gmail.com)
