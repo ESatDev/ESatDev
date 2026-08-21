@@ -1,4 +1,4 @@
-# Emir Sat
+# 👤 Emir Sat
 
 **Desarrollador de Software | Game Developer**  
 Estudiante avanzado de la Universidad Tecnológica Nacional (UTN), próximo a finalizar la Tecnicatura Universitaria en Programación. Interesado en el desarrollo de software, aplicaciones web y videojuegos, con experiencia académica y práctica en distintos lenguajes, bases de datos y herramientas de desarrollo.
