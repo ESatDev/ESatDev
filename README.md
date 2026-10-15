@@ -35,18 +35,18 @@ Tengo sólida formación en **programación orientada a objetos**, **estructuras
 #### 🚌 **BondiHora** — *Plataforma Web Full Stack & PWA de Transporte Público*
 > **Proyecto Universitario | Web App / PWA**
 
-Aplicación web Full Stack y PWA desarrollada para optimizar la consulta de horarios, frecuencias, tarifas y mapas del transporte público de colectivos en el Valle de Uco y Mendoza[cite: 1, 2].
+Aplicación web Full Stack y PWA desarrollada para optimizar la consulta de horarios, frecuencias, tarifas y mapas del transporte público de colectivos en el Valle de Uco y Mendoza.
 
 * **Arquitectura y Características clave:**
-  * **Backend & Base de Datos:** Servidor Node.js integrado con **Prisma ORM** para el modelado y persistencia de datos, incluyendo scripts de sembrado (*seeders*) para sincronización de frecuencias[cite: 3].
-  * **Progressive Web App (PWA):** Implementación de *Service Workers* (`sw.js`) y `manifest.json` para permitir capacidades offline e instalación directa en dispositivos móviles[cite: 3].
-  * **Panel de Administración:** Módulo independiente (`admin.html`) para la gestión interna de recorridos y horarios[cite: 3].
-  * **Geolocalización Interactiva:** Integración con *Leaflet / OpenStreetMap* para el mapeo interactivo de terminales y paradas regionales[cite: 2].
-  * **UI/UX Moderna:** Soporte para modo oscuro, widget de clima en tiempo real y componentes de accesibilidad[cite: 1].
+  * **Backend & Base de Datos:** Servidor Node.js integrado con **Prisma ORM** para el modelado y persistencia de datos, incluyendo scripts de sembrado (*seeders*) para sincronización de frecuencias.
+  * **Progressive Web App (PWA):** Implementación de *Service Workers* (`sw.js`) y `manifest.json` para permitir capacidades offline e instalación directa en dispositivos móviles.
+  * **Panel de Administración:** Módulo independiente (`admin.html`) para la gestión interna de recorridos y horarios.
+  * **Geolocalización Interactiva:** Integración con *Leaflet / OpenStreetMap* para el mapeo interactivo de terminales y paradas regionales.
+  * **UI/UX Moderna:** Soporte para modo oscuro, widget de clima en tiempo real y componentes de accesibilidad.
 * **Stack Tecnológico:**
-  * **Backend:** Node.js, Express, Prisma ORM[cite: 3].
-  * **Frontend:** JavaScript (ES6+), HTML5, CSS3, Service Workers (PWA)[cite: 3].
-  * **Servicios & Deploy:** Leaflet API, OpenStreetMap, Netlify / Vercel[cite: 2, 3].
+  * **Backend:** Node.js, Express, Prisma ORM.
+  * **Frontend:** JavaScript (ES6+), HTML5, CSS3, Service Workers (PWA).
+  * **Servicios & Deploy:** Leaflet API, OpenStreetMap, Netlify / Vercel.
 
 ---
 
