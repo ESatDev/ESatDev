@@ -1,58 +1,34 @@
-# [Tu Nombre Completo]
-**[Tu Rol Principal | ej. Senior Full Stack Engineer & Cloud Architect]**
+# Hola, soy Emir 👋
 
-[Ubicación, ej. Buenos Aires, Argentina] • [tu.email@dominio.com](mailto:tu.email@dominio.com) • [LinkedIn](https://linkedin.com/in/TU-USUARIO) • [Sitio Web / Portfolio](https://tu-portfolio.com)
+### 💻 Developer | Estudiante de Programación
 
----
+Soy un desarrollador en formación con conocimientos de nivel intermedio en programación. Me interesa la tecnología, el desarrollo de software y la creación de soluciones mediante código.
 
-## Profile Summary
-
-Desarrollador de software con más de **[X] años de experiencia** especializado en la arquitectura, desarrollo y escalabilidad de aplicaciones web y distribuidas. Enfoque centrado en la optimización de rendimiento, diseño de APIs robustas y mejores prácticas de ingeniería de software (Clean Architecture, TDD, CI/CD).
-
-- **Especialidades:** Arquitectura Backend, Frontend Moderno, Cloud Computing, Microservicios.
-- **Industrias de experiencia:** FinTech, E-commerce, SaaS.
+Actualmente estoy enfocado en seguir aprendiendo, mejorar mis habilidades y desarrollar proyectos que me permitan crecer profesionalmente.
 
 ---
 
-## Core Competencies & Tech Stack
+### 👨‍💻 Sobre mí
 
-| Categoria | Tecnologías & Herramientas |
-| :--- | :--- |
-| **Languages** | TypeScript, JavaScript, Python, Go, SQL |
-| **Frontend** | React, Next.js, Redux, TailwindCSS, HTML5/CSS3 |
-| **Backend** | Node.js, Express, NestJS, FastAPI, REST / GraphQL APIs |
-| **Databases** | PostgreSQL, MongoDB, Redis, MySQL |
-| **DevOps & Cloud** | AWS (S3, EC2, Lambda), Docker, Kubernetes, GitHub Actions, CI/CD |
-| **Testing & Tools** | Jest, Cypress, Git, Postman, Linux |
+- 🚀 En constante aprendizaje y evolución.
+- 💡 Interesado en el desarrollo de software.
+- 🎯 Enfocado en mejorar mis habilidades técnicas.
+- 🔍 Siempre buscando nuevos desafíos y oportunidades para aprender.
 
----
+### 🛠️ Tecnologías y herramientas
 
-## Key Featured Projects
+Actualmente estoy ampliando mis conocimientos en programación y explorando nuevas tecnologías.
 
-### [Nombre del Proyecto 1](https://github.com/tu-usuario/proyecto-1)
-*Plataforma/Herramienta orientada a [propósito del proyecto]*
-- Diseñé e implementé la arquitectura de microservicios reduciendo la latencia de respuesta en un **30%**.
-- Integré canalizaciones CI/CD automatizadas para despliegues continuos en AWS.
-- **Tech Stack:** React, Node.js, PostgreSQL, Docker, AWS.
+### 📊 GitHub Stats
 
-### [Nombre del Proyecto 2](https://github.com/tu-usuario/proyecto-2)
-*API / Sistema enfocado en [propósito del proyecto]*
-- Desarrollé una API RESTful escalable capaz de procesar más de **[X]** peticiones por segundo.
-- Implementé autenticación segura OAuth2 y caché distribuido con Redis.
-- **Tech Stack:** Python, FastAPI, Redis, MongoDB.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ESatDev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ESatDev&layout=compact&theme=github_dark&hide_border=true)
+
+### 📫 Contacto
+
+- GitHub: [@ESatDev](https://github.com/ESatDev)
 
 ---
 
-## GitHub Metrics & Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=flat&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=flat&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## Professional Standards
-
-- **Code Quality:** Adherencia a principios SOLID, Clean Code y cobertura de pruebas unitarias/integración (>80%).
-- **Methodologies:** Agile / Scrum, Code Reviews sistemáticos y documentación técnica rigurosa.
+*“Great things are built one line of code at a time.”*
